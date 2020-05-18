@@ -4,7 +4,7 @@ import 'package:movie/model/movie.dart';
 class MoviesApi {
   final String _baseUrl = 'https://api.themoviedb.org/3';
   final String _imageBaseUrl = 'https://image.tmdb.org/t/p/w500';
-  final String _apiKey = 'cd287305fee4128c441d3e5ad7f358bc';
+  final String _apiKey = '0139706de6defd02104c1009adcc2ec8';
 
   final String _nowPlayingPath = '/movie/now_playing';
   final String _popularPath = '/movie/popular';
